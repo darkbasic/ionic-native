@@ -6,7 +6,7 @@
     "experimentalDecorators": true,
     "emitDecoratorMetadata": true,
     "noImplicitAny": true,
-    "module": "es2015",
+    "module": "commonjs",
     "moduleResolution": "node",
     "paths": {
       "@ionic-native/core": ["./dist/@ionic-native/core"]

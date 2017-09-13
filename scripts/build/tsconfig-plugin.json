@@ -5,7 +5,7 @@
     "stripInternal": true,
     "experimentalDecorators": true,
     "emitDecoratorMetadata": true,
-    "module": "es2015",
+    "module": "commonjs",
     "moduleResolution": "node",
     "outDir": "../../../dist/@ionic-native/",
     "paths": {
